@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(~/scoop/apps/maven/current/bin/mvn clean *)",
+      "Read(//c/Program Files/Java//**)",
+      "Read(//c/Program Files \\\\\\(x86\\\\\\)/**)",
+      "Bash(mvn *)",
+      "Bash(./mvnw test *)",
+      "Bash(cmd.exe /c \"where mvn\")",
+      "Bash(cmd.exe *)",
+      "Bash(powershell -Command \"mvn --version\" 2>&1)"
+    ]
+  }
+}

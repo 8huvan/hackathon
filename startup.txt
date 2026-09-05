@@ -1,0 +1,10 @@
+
+$env:CLAUDE_CONFIG_DIR = "$HOME\.claude-omniroute"
+
+$env:ANTHROPIC_BASE_URL = "http://localhost:20128"
+
+$env:ANTHROPIC_AUTH_TOKEN = "YOUR_OMNIROUTE_KEY"
+
+$env:ANTHROPIC_API_KEY = "sk-adca0301d8c1e49c-a6b07c-7ffa2d5d"
+
+$env:ANTHROPIC_MODEL = "bhuvan"
